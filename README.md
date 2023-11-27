@@ -2,9 +2,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
 
-*[*Imaginify*](https://imaginify-client.vercel.app/create-post)*: A Full Stack MERN AI Image Generation App*
-[https://imaginify-client.vercel.app/create-post](https://imaginify-client.vercel.app/create-post)
-
+[*Imaginify*: A Full Stack MERN AI Image Generation App](https://imaginify-client.vercel.app/create-post)
 *## Overview* 🚀
 
 *Imaginify* is a Full Stack MERN (MongoDB, Express.js, React, Node.js) application designed for AI image generation. This project is a MidJourney & DALL E Clone, bringing together powerful technologies to create an innovative image generation experience.
