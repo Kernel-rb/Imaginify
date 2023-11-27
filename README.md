@@ -1,3 +1,8 @@
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+</a>
+
+
 # Imaginify: A Full Stack MERN AI Image Generation App
 https://imaginify-client.vercel.app/create-post
 ## Overview 🚀
@@ -93,3 +98,6 @@ If you would like to contribute to *Imaginify*, feel free to submit issues or pu
 ## License 📄
 
 This project is licensed under the [MIT License](LICENSE).
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+</a>
