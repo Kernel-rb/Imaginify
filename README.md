@@ -107,9 +107,7 @@ This project is licensed under the [MIT License](LICENSE).
 <a href="https://leetcode.com/Kernel-rb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaivardhan-bhola" height="30" width="40" /></a>
 </p>
 </div>
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
+
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
