@@ -2,14 +2,14 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
 
+*[*Imaginify*](https://imaginify-client.vercel.app/create-post)*: A Full Stack MERN AI Image Generation App*
+[https://imaginify-client.vercel.app/create-post](https://imaginify-client.vercel.app/create-post)
 
-# Imaginify: A Full Stack MERN AI Image Generation App
-https://imaginify-client.vercel.app/create-post
-## Overview 🚀
+*## Overview* 🚀
 
 *Imaginify* is a Full Stack MERN (MongoDB, Express.js, React, Node.js) application designed for AI image generation. This project is a MidJourney & DALL E Clone, bringing together powerful technologies to create an innovative image generation experience.
 
-## Project Structure 📂
+*## Project Structure* 📂
 
 The repository is organized into two main folders:
 
@@ -21,7 +21,7 @@ The repository is organized into two main folders:
    - The client-side of the application is a React-based front-end.
    - It provides a user-friendly interface for interacting with the AI image generation features.
 
-## Features 🌟
+*## Features* 🌟
 
 - **AI Image Generation:**
   - Leveraging the capabilities of OpenAI, *Imaginify* enables users to generate unique and creative images using state-of-the-art models.
@@ -32,14 +32,14 @@ The repository is organized into two main folders:
 - **DALL E Clone:**
   - Incorporating concepts from DALL E, the app brings cutting-edge image synthesis capabilities to users.
 
-## Getting Started 🛠️
+*## Getting Started* 🛠️
 
-### Prerequisites
+*### Prerequisites*
 
 - Node.js and npm installed on your machine.
 - MongoDB installed locally or accessible remotely.
 
-### Installation
+*### Installation*
 
 1. Clone the repository:
 
@@ -61,7 +61,7 @@ The repository is organized into two main folders:
     npm install
     ```
 
-### Configuration
+*### Configuration*
 
 1. Create a `.env` file in the `server` directory and add the following:
 
@@ -73,7 +73,7 @@ The repository is organized into two main folders:
 
 2. Replace `<your_mongodb_uri>` and `<your_openai_api_key>` with your MongoDB connection URI and OpenAI API key.
 
-### Running the Application
+*### Running the Application*
 
 1. Start the server:
 
@@ -91,11 +91,11 @@ The repository is organized into two main folders:
 
 3. Visit `http://localhost:3000` in your browser to use the *Imaginify* app.
 
-## Contributing 🤝
+*## Contributing* 🤝
 
 If you would like to contribute to *Imaginify*, feel free to submit issues or pull requests. Your contributions are welcome!
 
-## License 📄
+*## License* 📄
 
 This project is licensed under the [MIT License](LICENSE).
 
@@ -107,7 +107,6 @@ This project is licensed under the [MIT License](LICENSE).
 <a href="https://leetcode.com/Kernel-rb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaivardhan-bhola" height="30" width="40" /></a>
 </p>
 </div>
-
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
