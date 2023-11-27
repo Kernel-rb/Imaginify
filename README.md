@@ -98,6 +98,19 @@ If you would like to contribute to *Imaginify*, feel free to submit issues or pu
 ## License 📄
 
 This project is licensed under the [MIT License](LICENSE).
+
+<div> 
+<p align="center">
+<a href="https://twitter.com/kernelrb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bholajaivardhan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saif-matab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaivardhan-bhola-773944214" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kernel.rb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaivardhan-b" height="30" width="40" /></a>
+<a href="https://leetcode.com/Kernel-rb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaivardhan-bhola" height="30" width="40" /></a>
+</p>
+</div>
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
